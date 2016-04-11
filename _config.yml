@@ -1,6 +1,6 @@
 name: harrymie
 favicon: null
-layout_spectrum: 0.3376107036601752
+layout_spectrum: 0.206
 typography_spectrum: 0.053603074280545115
 title: 'inspiration in motion '
 cta:
@@ -22,8 +22,8 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.3001605225726962
+  brandStrength: 0.4375
   lightness: 0.8209362181369215
-  saturation: 0.3215899986680597
+  saturation: 0.375
   rhythmicContrast: 0.29485714226029813
 purpose: []
